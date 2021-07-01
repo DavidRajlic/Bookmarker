@@ -1,0 +1,34 @@
+h1{
+color: gray;
+display: flex;
+justify-content: center;
+text-decoration: underline;
+}
+.container{
+  background-color:rgba(128, 128, 128, 0.932);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.result{
+font-size: x-large;
+}
+.result div{
+  background-color:rgba(128, 128, 128, 0.932);
+}
+
+.p{
+  display: inline;
+  height: 10px;
+}
+.visit{
+  height: 30px;
+  padding:5px;
+  margin-right: 5px;
+  
+}
+.remove{
+height: 30px;
+background-color: red;
+}
